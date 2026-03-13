@@ -41,7 +41,7 @@ Highlights include:
 - Structured troubleshooting workflows and documentation
 
 **Folder contents:**  
-`system-troubleshooting-home-lab/` — full Markdown guide, example cases, and images
+`system-troubleshooting-home-lab/` — full Markdown guide & example cases
 
 ---
 
@@ -57,7 +57,7 @@ Highlights include:
 - Multi-emulator usage: VirtuaNES (NES), Red Viper (VB), Snes9x (SNES), PicoDrive (Genesis), DaedalusX64 (N64), TWiLight Menu++ / GBA Runner2  
 
 **Folder contents:**  
-`3ds-homebrew-system/` — full Markdown guide, workflow diagrams, and screenshots
+`3ds-homebrew-system/` — full Markdown guide
 
 ---
 
