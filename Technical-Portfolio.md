@@ -45,6 +45,8 @@ Highlights include:
 
 ---
 
+## Technical Experiments
+
 ### [3DS Homebrew & Embedded Systems](3ds-homebrew-system)
 Demonstrates **custom firmware installation, ROM injection, emulator configuration, and workflow automation** across multiple platforms: 3DS, DS, GBA, NES, SNES, Genesis, and N64.  
 
