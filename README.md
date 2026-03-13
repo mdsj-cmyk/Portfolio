@@ -26,7 +26,7 @@ Demonstrates foundational knowledge in:
 - Environmental and infrastructure monitoring
 
 **Folder contents:**  
-`data-center-infrastructure/` — full Markdown guide and reference images
+`data-center-infrastructure-basics/` — full Markdown guide and reference images
 
 ---
 
@@ -42,7 +42,7 @@ Highlights include:
 - Structured troubleshooting workflows and documentation
 
 **Folder contents:**  
-`home-lab/` — full Markdown guide, example cases, and images
+`system-troubleshooting-home-lab/` — full Markdown guide, example cases, and images
 
 ---
 
@@ -58,7 +58,7 @@ Highlights include:
 - Multi-emulator usage: VirtuaNES (NES), Red Viper (VB), Snes9x (SNES), PicoDrive (Genesis), DaedalusX64 (N64), TWiLight Menu++ / GBA Runner2  
 
 **Folder contents:**  
-`3ds-homebrew/` — full Markdown guide, workflow diagrams, and screenshots
+`3ds-homebrew-system/` — full Markdown guide, workflow diagrams, and screenshots
 
 ---
 
