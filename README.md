@@ -26,7 +26,7 @@ Demonstrates foundational knowledge in:
 - Environmental and infrastructure monitoring
 
 **Folder contents:**  
-`data-center-infrastructure-basics/` — full Markdown guide and reference images
+`data-center-infrastructure/` — full Markdown guide and reference images
 
 ---
 
