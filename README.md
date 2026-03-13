@@ -16,7 +16,7 @@ This collection demonstrates both foundational technical knowledge and applied p
 
 ## Projects
 
-### [Data Center Infrastructure Basics](data-center-infrastructure)
+### [Data Center Infrastructure Basics](data-center-infrastructure-basics)
 A high-level guide to the **core infrastructure systems** used in modern data centers.  
 Demonstrates foundational knowledge in:
 
@@ -26,11 +26,11 @@ Demonstrates foundational knowledge in:
 - Environmental and infrastructure monitoring
 
 **Folder contents:**  
-`data-center-infrastructure/` — full Markdown guide and reference images
+`data-center-infrastructure-basics/` — full Markdown guide and reference images
 
 ---
 
-### [Home Lab: System Maintenance & Hardware Upgrades](home-lab)
+### [Home Lab: System Maintenance & Hardware Upgrades](system-troubleshooting-home-lab)
 Hands-on experience with a **Dell OptiPlex 3020 SFF workstation**, demonstrating real-world IT support and troubleshooting workflows.  
 
 Highlights include:
@@ -46,7 +46,7 @@ Highlights include:
 
 ---
 
-### [3DS Homebrew & Embedded Systems](3ds-homebrew)
+### [3DS Homebrew & Embedded Systems](3ds-homebrew-system)
 Demonstrates **custom firmware installation, ROM injection, emulator configuration, and workflow automation** across multiple platforms: 3DS, DS, GBA, NES, SNES, Genesis, and N64.  
 
 Highlights include:
