@@ -1,7 +1,6 @@
 # Jeff Dean-Smith - Technical Portfolio
 
-Welcome to my portfolio showcasing **IT infrastructure knowledge, hands-on lab experience, and embedded systems projects**.  
-This collection demonstrates both foundational technical knowledge and applied problem-solving across multiple platforms.
+Welcome to my portfolio showcasing **IT infrastructure knowledge, hands-on lab experience, and embedded systems projects**. This collection demonstrates both foundational technical knowledge and applied problem-solving across multiple platforms.
 
 ---
 
