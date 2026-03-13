@@ -65,7 +65,7 @@ Highlights include:
 
 - GitHub: [mdsj-cmyk](https://github.com/mdsj-cmyk)  
 - LinkedIn: [www.linkedin.com/in/jeffdean-smith](#)  
-- Email: DeanSmithJeff@Gmail.com
+- Email: deansmithjeff@Gmail.com
 
 ---
 
