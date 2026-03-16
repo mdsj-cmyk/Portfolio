@@ -9,7 +9,7 @@ Welcome to my portfolio showcasing **IT infrastructure knowledge, hands-on lab e
 - **Data Center & Infrastructure**: Power, cooling, redundancy, environmental monitoring  
 - **System Administration & Troubleshooting**: CPU/RAM/SSD/GPU upgrades, diagnostics, structured workflows  
 - **Embedded Systems & Firmware Management**: 3DS/DS/GBA/NES/SNES emulator setup, ROM injection, custom firmware workflows  
-- **Technical Documentation**: Markdown documentation, structured guides, lab reports  
+- **Technical Documentation**: Markdown documentation, structured guides  
 
 ---
 
