@@ -29,7 +29,7 @@ Focus areas include:
 - **Storage migration from HDD to SSD**:
   - Cloned OS and data using **Macrium Reflect**  
   - Prepared SSD with **DiskPart** and **Windows Disk Management**  
-  - Booted from **Windows USB to Linux/GParted** to erase and resize partitions  
+  - Booted from **Windows USB to Linux/GParted** to erase, move and resize partitions  
   - Created **rescue media** for safe migration  
 - Installed and tested Nvidia Quadro P1000 4GB GPU  
 - BIOS configuration and system compatibility checks  
